@@ -1,5 +1,5 @@
 function Home() {
-    return <div>Nova home</div>
+    return <div><h1>Nova home</h1></div>
 }
 
 function Ajuda() {
